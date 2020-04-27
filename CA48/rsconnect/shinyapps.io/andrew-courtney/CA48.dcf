@@ -1,0 +1,12 @@
+name: CA48
+title: CA48
+username:
+account: andrew-courtney
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 2182981
+bundleId: 3062463
+url: https://andrew-courtney.shinyapps.io/CA48/
+when: 1587786293.67401
+asMultiple: FALSE
+asStatic: FALSE
